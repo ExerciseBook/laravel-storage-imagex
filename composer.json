@@ -1,0 +1,25 @@
+{
+    "$schema": "https://getcomposer.org/schema.json",
+    "name": "exercisebook/laravel-storage-imagex",
+    "description": "Laravel ImageX Storage",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Eric_Lian",
+            "email": "public@superexercisebook.com"
+        }
+    ],
+    "require": {
+        "exercisebook/flysystem-imagex" : ">=1.0.1",
+        "illuminate/support" : ">=v5.0.0"
+    },
+    "license": "MIT",
+    "version": "1.0.0",
+
+    "minimum-stability": "stable",
+    "autoload": {
+        "psr-4": {
+            "ExerciseBook\\Laravel\\Storage\\ImageX\\": "src/"
+        }
+    }
+}
