@@ -10,7 +10,7 @@
         }
     ],
     "require": {
-        "exercisebook/flysystem-imagex" : ">=1.0.1",
+        "exercisebook/flysystem-imagex" : "<1.0.0",
         "illuminate/support" : ">=v7.0.0"
     },
     "license": "MIT",
