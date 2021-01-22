@@ -19,7 +19,7 @@
                 'access_key' => 'Access Key',
                 'secret_key' => 'Secret Key',
                 'service_id' => 'Service ID',
-                'domain' => 'Binding Domain'      // 填写该图片服务所绑定的域名如 imagex.superexercisebook.com。推荐以 https:// 开头。该值用来拼接 url 用。
+                'domain' => 'Binding Domain'      // 填写该图片服务所绑定的域名如 imagex.superexercisebook.com。推荐以 https:// 开头。该值用来拼接 url。
             ],
     
     ```
